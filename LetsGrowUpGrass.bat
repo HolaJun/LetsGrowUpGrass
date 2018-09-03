@@ -6,3 +6,4 @@ git add .
 git commit -m "Planted grass."
 git push -u origin +master
 
+pause
