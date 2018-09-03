@@ -1,6 +1,6 @@
-ï»¿@echo off
+@echo off
 
-echo [%DATE% %TIME:~0,8%] ìž”ë””ë¥¼ ì‹¬ì—ˆìŠµë‹ˆë‹¤. >> log.txt
+echo [%DATE% %TIME:~0,8%] ÀÜµð¸¦ ½É¾ú½À´Ï´Ù. >> log.txt
 
 git add . 
 git commit -m "Planted grass."
