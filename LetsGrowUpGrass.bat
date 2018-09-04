@@ -16,7 +16,7 @@ IF %readPushLog%=="" (
 REM 실행된거면.
 ) else (
   echo [%DATE% %TIME:~0,8%] 잔디를 심었습니다. >> log.txt
-  exit
 )
+pause
 
 GOTO LetGrowUpgrass
