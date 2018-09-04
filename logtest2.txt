@@ -11,3 +11,5 @@
  create mode 100644 logtest3.txt
 [master 1884640] Planted grass
  2 files changed, 6 insertions(+), 1 deletion(-)
+[master 34e9646] Planted grass
+ 1 file changed, 2 insertions(+)
