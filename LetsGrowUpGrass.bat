@@ -1,6 +1,6 @@
 @echo off
 
-set readPushLog=""
+set readPushLog=
 
 :LetsGrowUpGrass
 git add .
