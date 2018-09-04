@@ -9,7 +9,9 @@ GOTO CheckGithubUpload
 
 :CheckGithubUpload
 set /p readPushLog=<pushlog.txt
-echo %readPushLog%
+IF "%readPushLog%"=="" (
+  echo %readPushLog%
+)
 pause
 
 GOTO LetGrowUpgrass
