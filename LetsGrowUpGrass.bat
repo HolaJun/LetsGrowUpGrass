@@ -10,7 +10,9 @@ GOTO CheckGithubUpload
 :CheckGithubUpload
 set /p readPushLog=<pushlog.txt
 IF "%readPushLog%"=="" (
-  echo %readPushLog%
+  echo hihihi
+) else (
+  echo ¿¤½º´Ù
 )
 pause
 
