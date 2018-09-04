@@ -4,3 +4,8 @@
  delete mode 100644 log2.txt
  delete mode 100644 logtest.txt
  delete mode 100644 test.txt
+[master 01c3fff] Planted grass
+ 3 files changed, 7 insertions(+)
+ create mode 100644 log.txt
+ create mode 100644 logtest2.txt
+ create mode 100644 logtest3.txt
