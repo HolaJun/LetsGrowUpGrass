@@ -10,7 +10,7 @@ set /p readPushLog=<pushlog.txt
 GOTO CheckGithubUpload
 
 :CheckGithubUpload
-echo hello
+echo %readPushLog%
 pause
 
 GOTO LetGrowUpgrass
