@@ -1,0 +1,3 @@
+[master 7ab4f86] Planted grass
+ 3 files changed, 4 insertions(+), 4 deletions(-)
+ create mode 100644 logtest.txt
