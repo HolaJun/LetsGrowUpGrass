@@ -16,6 +16,7 @@ IF "%readPushLog%"=="" (
 REM 깃허브 업로드가 성공적으로 되었을 경우 로그를 남김.
 ) ELSE (
   echo [%DATE% %TIME:~0,8%] 잔디를 심었습니다. >> log.txt
+  pause
 )
 
 GOTO LetGrowUpgrass
