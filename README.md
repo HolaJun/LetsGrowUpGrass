@@ -2,15 +2,15 @@
 
 > 부팅할 때마다 깃허브 잔디를 1번씩 심어줍니다. 
 
-
 <br>
+
 ## 환경
 
 - Windows 10
 - Git bash
 
-
 <br>
+
 ## 실행 과정
 
 
@@ -25,8 +25,8 @@
 
 4. LetsGrowUpGrass.bat
 
-
 <br>
+
 ## 시작프로그램 등록
 
 1. Win+R → shell:startup
